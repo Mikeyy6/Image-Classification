@@ -2,7 +2,7 @@
 Image Classification Project COMP 472, Fall 2024 Section NN
 
 ## Installation
-Use the package manager [pip] (https://packaging.python.org/en/latest/tutorials/installing-packages/) to install all the missing libraries that aren't downloaded
+Use the package manager "pip" to install all the missing libraries that aren't downloaded
 
 # How to run the project 
 Load the files onto your IDE and make sure that all the libraries are installed correctly using the pip command. To run the project, open the terminal and run the main.py file 
