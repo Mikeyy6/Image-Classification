@@ -1,5 +1,5 @@
 # Image Classification
-Image Classification Project COMP 472, Fall 2024 Section NN
+Image Classification Project on the CIFAR-10 Dataset
 
 ## Installation
 Use the package manager "pip" to install all the missing libraries that aren't downloaded
@@ -13,8 +13,3 @@ python main.py
 Each of the ML Models has been seperated into its own subfolder. For the Gaussian Naive Bayes and the Decision Tree Models, both the custom and scikit's learn are in the subfolders. By running the main.py file, all the models including the scikit's learn models are called to be evaluated and generate a confusion matrix. 
 
 The Confusion Matrices for each of the models is saved in their subfolder and finally, each pretrained model is saved in the Pretrained_Models subfolder for shorter runtime of the project and grading purposes.
-
-## Team Members
-Michel Kandalaft, 40227791
-
-Yassin Al Kafri, 40214482
