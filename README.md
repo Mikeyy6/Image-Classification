@@ -12,4 +12,4 @@ python main.py
 ## Project Description
 Each of the ML Models has been seperated into its own subfolder. For the Gaussian Naive Bayes and the Decision Tree Models, both the custom and scikit's learn are in the subfolders. By running the main.py file, all the models including the scikit's learn models are called to be evaluated and generate a confusion matrix. 
 
-The Confusion Matrices for each of the models is saved in their subfolder and finally, each pretrained model is saved in the Pretrained_Models subfolder for shorter runtime of the project and grading purposes.
+The Confusion Matrices for each of the models is saved in their subfolder and finally, each pretrained model is saved in the Pretrained_Models subfolder for shorter runtime of the project and grading purposes.  
